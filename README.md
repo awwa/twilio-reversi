@@ -4,7 +4,7 @@ Twilioの機能を学習するためのサンプルアプリです。
 
 ## 概要
 Node.js/Express上で動作するWebアプリケーションです。  
-Twilioの着信時のWebhookを受信します。  
+Twilioで電話着信時のWebhookを受信します。  
 ゲーム参加者にSMSを送信します。  
 
 ## 前提条件
