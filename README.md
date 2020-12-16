@@ -1,4 +1,5 @@
 # Twilio Reversi
+Twilioでオセロをします。
 Twilioの機能を学習するためのサンプルアプリです。
 
 ## 概要
